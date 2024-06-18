@@ -30,5 +30,5 @@ for %%c in (%containers%) do (
 )
 
 :compose_up
-docker-compose -f multi-node-cluster/docker-compose.yml up -d 
+docker-compose -f frameworks/multi-node-cluster/docker-compose.yml up -d 
 docker exec -it master bash
