@@ -4,6 +4,9 @@
 
 ## Steps to Clone the repository
 
-1. Open Command Prompt
-2. $> cd c:/
-3. git clone https://github.com/naveenpn-trainer/big-data-engineering.git
+1. Open Command Prompt and execute the following commands
+
+   ```
+   cd c:/
+   git clone https://github.com/naveenpn-trainer/big-data-engineering.git
+   ```
