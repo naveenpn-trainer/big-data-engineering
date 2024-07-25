@@ -4,7 +4,7 @@ id|age|gender|designation|salary
 3|23|M|writer|32067
 4|0|M|technician|43537
 5|33|F|other|15213
-6|42|M|executive|98101
+6|42|M|Cheif Executive Officer|98101
 7|57|M|administrator|91344
 8|36|M|administrator|05201
 9|29|M|student|01002
@@ -52,10 +52,10 @@ id|age|gender|designation|salary
 51|28|M|educator|16509
 52|18|F|student|55105
 53|26|M|programmer|55414
-54|22|M|executive|66315
+54|22|M|Cheif Executive Officer|66315
 55|37|M|programmer|01331
 56|25|M|librarian|46260
-57|16|M|cheif Executive Officer|84010
+57|16|M|Cheif Cheif Executive Officer Officer|84010
 58|27|M|programmer|52246
 59|49|M|educator|08403
 60|50|M|healthcare|06472
@@ -82,7 +82,7 @@ id|age|gender|designation|salary
 81|21|M|student|21218
 82|50|M|programmer|22902
 83|40|M|other|44133
-84|32|M|executive|55369
+84|32|M|Cheif Executive Officer|55369
 85|51|M|educator|20003
 86|26|M|administrator|46005
 87|47|M|administrator|89503
@@ -91,14 +91,14 @@ id|age|gender|designation|salary
 90|60|M|educator|78155
 91|55|M|marketing|01913
 92|32|M|entertainment|80525
-93|48|M|executive|23112
+93|48|M|Cheif Executive Officer|23112
 94|26|M|student|71457
 95|31|M|administrator|10707
 96|25|F|artist|75206
 97|43|M|artist|98006
-98|49|F|executive|90291
+98|49|F|Cheif Executive Officer|90291
 99|20|M|student|63129
-100|36|M|executive|90254
+100|36|M|Cheif Executive Officer|90254
 101|15|M|student|05146
 102|38|M|programmer|30220
 103|26|M|student|55108
@@ -111,7 +111,7 @@ id|age|gender|designation|salary
 110|19|M|student|77840
 111|57|M|engineer|90630
 112|30|M|salesman|60613
-113|47|M|executive|95032
+113|47|M|Cheif Executive Officer|95032
 114|27|M|programmer|75013
 115|31|M|engineer|17110
 116|40|M|healthcare|97232
@@ -125,10 +125,10 @@ id|age|gender|designation|salary
 124|34|M|student|60615
 125|30|M|lawyer|22202
 126|28|F|lawyer|20015
-127|33|M|cheif Executive Officer|73439
+127|33|M|cheif Cheif Executive Officer Officer|73439
 128|24|F|marketing|20009
 129|36|F|marketing|07039
-130|20|M|cheif Executive Officer|60115
+130|20|M|cheif Cheif Executive Officer Officer|60115
 131|59|F|administrator|15237
 132|24|M|other|94612
 133|53|M|engineer|78602
@@ -179,12 +179,12 @@ id|age|gender|designation|salary
 178|26|M|other|49512
 179|15|M|entertainment|20755
 180|22|F|administrator|60202
-181|26|M|executive|21218
+181|26|M|Cheif Executive Officer|21218
 182|36|M|programmer|33884
 183|33|M|scientist|27708
 184|37|M|librarian|76013
 185|53|F|librarian|97403
-186|39|F|executive|00000
+186|39|F|Cheif Executive Officer|00000
 187|26|M|educator|16801
 188|42|M|student|29440
 189|32|M|artist|95014
@@ -211,7 +211,7 @@ id|age|gender|designation|salary
 210|39|M|engineer|03060
 211|66|M|salesman|32605
 212|49|F|educator|61401
-213|33|M|executive|55345
+213|33|M|Cheif Executive Officer|55345
 214|26|F|librarian|11231
 215|35|M|programmer|63033
 216|22|M|engineer|02215
@@ -225,7 +225,7 @@ id|age|gender|designation|salary
 224|31|F|educator|43512
 225|51|F|administrator|58202
 226|28|M|student|92103
-227|46|M|executive|60659
+227|46|M|Cheif Executive Officer|60659
 228|21|F|student|22003
 229|29|F|librarian|22903
 230|28|F|student|14476

@@ -3,7 +3,7 @@
 {"id":3,"age":23,"gender":"M","designation":"writer","salary":32067}
 {"id":4,"age":0,"gender":"M","designation":"technician","salary":43537}
 {"id":5,"age":33,"gender":"F","designation":"other","salary":15213}
-{"id":6,"age":42,"gender":"M","designation":"executive","salary":98101}
+{"id":6,"age":42,"gender":"M","designation":"Cheif Executive Officer","salary":98101}
 {"id":7,"age":57,"gender":"M","designation":"administrator","salary":91344}
 {"id":8,"age":36,"gender":"M","designation":"administrator","salary":5201}
 {"id":9,"age":29,"gender":"M","designation":"student","salary":1002}
@@ -51,10 +51,10 @@
 {"id":51,"age":28,"gender":"M","designation":"educator","salary":16509}
 {"id":52,"age":18,"gender":"F","designation":"student","salary":55105}
 {"id":53,"age":26,"gender":"M","designation":"programmer","salary":55414}
-{"id":54,"age":22,"gender":"M","designation":"executive","salary":66315}
+{"id":54,"age":22,"gender":"M","designation":"Cheif Executive Officer","salary":66315}
 {"id":55,"age":37,"gender":"M","designation":"programmer","salary":1331}
 {"id":56,"age":25,"gender":"M","designation":"librarian","salary":46260}
-{"id":57,"age":16,"gender":"M","designation":"cheif Executive Officer","salary":84010}
+{"id":57,"age":16,"gender":"M","designation":"cheif Cheif Executive Officer Officer","salary":84010}
 {"id":58,"age":27,"gender":"M","designation":"programmer","salary":52246}
 {"id":59,"age":49,"gender":"M","designation":"educator","salary":8403}
 {"id":60,"age":50,"gender":"M","designation":"healthcare","salary":6472}
@@ -81,7 +81,7 @@
 {"id":81,"age":21,"gender":"M","designation":"student","salary":21218}
 {"id":82,"age":50,"gender":"M","designation":"programmer","salary":22902}
 {"id":83,"age":40,"gender":"M","designation":"other","salary":44133}
-{"id":84,"age":32,"gender":"M","designation":"executive","salary":55369}
+{"id":84,"age":32,"gender":"M","designation":"Cheif Executive Officer","salary":55369}
 {"id":85,"age":51,"gender":"M","designation":"educator","salary":20003}
 {"id":86,"age":26,"gender":"M","designation":"administrator","salary":46005}
 {"id":87,"age":47,"gender":"M","designation":"administrator","salary":89503}
@@ -90,14 +90,14 @@
 {"id":90,"age":60,"gender":"M","designation":"educator","salary":78155}
 {"id":91,"age":55,"gender":"M","designation":"marketing","salary":1913}
 {"id":92,"age":32,"gender":"M","designation":"entertainment","salary":80525}
-{"id":93,"age":48,"gender":"M","designation":"executive","salary":23112}
+{"id":93,"age":48,"gender":"M","designation":"Cheif Executive Officer","salary":23112}
 {"id":94,"age":26,"gender":"M","designation":"student","salary":71457}
 {"id":95,"age":31,"gender":"M","designation":"administrator","salary":10707}
 {"id":96,"age":25,"gender":"F","designation":"artist","salary":75206}
 {"id":97,"age":43,"gender":"M","designation":"artist","salary":98006}
-{"id":98,"age":49,"gender":"F","designation":"executive","salary":90291}
+{"id":98,"age":49,"gender":"F","designation":"Cheif Executive Officer","salary":90291}
 {"id":99,"age":20,"gender":"M","designation":"student","salary":63129}
-{"id":100,"age":36,"gender":"M","designation":"executive","salary":90254}
+{"id":100,"age":36,"gender":"M","designation":"Cheif Executive Officer","salary":90254}
 {"id":101,"age":15,"gender":"M","designation":"student","salary":5146}
 {"id":102,"age":38,"gender":"M","designation":"programmer","salary":30220}
 {"id":103,"age":26,"gender":"M","designation":"student","salary":55108}
@@ -110,7 +110,7 @@
 {"id":110,"age":19,"gender":"M","designation":"student","salary":77840}
 {"id":111,"age":57,"gender":"M","designation":"engineer","salary":90630}
 {"id":112,"age":30,"gender":"M","designation":"salesman","salary":60613}
-{"id":113,"age":47,"gender":"M","designation":"executive","salary":95032}
+{"id":113,"age":47,"gender":"M","designation":"Cheif Executive Officer","salary":95032}
 {"id":114,"age":27,"gender":"M","designation":"programmer","salary":75013}
 {"id":115,"age":31,"gender":"M","designation":"engineer","salary":17110}
 {"id":116,"age":40,"gender":"M","designation":"healthcare","salary":97232}
@@ -124,10 +124,10 @@
 {"id":124,"age":34,"gender":"M","designation":"student","salary":60615}
 {"id":125,"age":30,"gender":"M","designation":"lawyer","salary":22202}
 {"id":126,"age":28,"gender":"F","designation":"lawyer","salary":20015}
-{"id":127,"age":33,"gender":"M","designation":"cheif Executive Officer","salary":73439}
+{"id":127,"age":33,"gender":"M","designation":"cheif Cheif Executive Officer Officer","salary":73439}
 {"id":128,"age":24,"gender":"F","designation":"marketing","salary":20009}
 {"id":129,"age":36,"gender":"F","designation":"marketing","salary":7039}
-{"id":130,"age":20,"gender":"M","designation":"cheif Executive Officer","salary":60115}
+{"id":130,"age":20,"gender":"M","designation":"cheif Cheif Executive Officer Officer","salary":60115}
 {"id":131,"age":59,"gender":"F","designation":"administrator","salary":15237}
 {"id":132,"age":24,"gender":"M","designation":"other","salary":94612}
 {"id":133,"age":53,"gender":"M","designation":"engineer","salary":78602}
@@ -178,12 +178,12 @@
 {"id":178,"age":26,"gender":"M","designation":"other","salary":49512}
 {"id":179,"age":15,"gender":"M","designation":"entertainment","salary":20755}
 {"id":180,"age":22,"gender":"F","designation":"administrator","salary":60202}
-{"id":181,"age":26,"gender":"M","designation":"executive","salary":21218}
+{"id":181,"age":26,"gender":"M","designation":"Cheif Executive Officer","salary":21218}
 {"id":182,"age":36,"gender":"M","designation":"programmer","salary":33884}
 {"id":183,"age":33,"gender":"M","designation":"scientist","salary":27708}
 {"id":184,"age":37,"gender":"M","designation":"librarian","salary":76013}
 {"id":185,"age":53,"gender":"F","designation":"librarian","salary":97403}
-{"id":186,"age":39,"gender":"F","designation":"executive","salary":0}
+{"id":186,"age":39,"gender":"F","designation":"Cheif Executive Officer","salary":0}
 {"id":187,"age":26,"gender":"M","designation":"educator","salary":16801}
 {"id":188,"age":42,"gender":"M","designation":"student","salary":29440}
 {"id":189,"age":32,"gender":"M","designation":"artist","salary":95014}
@@ -210,7 +210,7 @@
 {"id":210,"age":39,"gender":"M","designation":"engineer","salary":3060}
 {"id":211,"age":66,"gender":"M","designation":"salesman","salary":32605}
 {"id":212,"age":49,"gender":"F","designation":"educator","salary":61401}
-{"id":213,"age":33,"gender":"M","designation":"executive","salary":55345}
+{"id":213,"age":33,"gender":"M","designation":"Cheif Executive Officer","salary":55345}
 {"id":214,"age":26,"gender":"F","designation":"librarian","salary":11231}
 {"id":215,"age":35,"gender":"M","designation":"programmer","salary":63033}
 {"id":216,"age":22,"gender":"M","designation":"engineer","salary":2215}
@@ -224,7 +224,7 @@
 {"id":224,"age":31,"gender":"F","designation":"educator","salary":43512}
 {"id":225,"age":51,"gender":"F","designation":"administrator","salary":58202}
 {"id":226,"age":28,"gender":"M","designation":"student","salary":92103}
-{"id":227,"age":46,"gender":"M","designation":"executive","salary":60659}
+{"id":227,"age":46,"gender":"M","designation":"Cheif Executive Officer","salary":60659}
 {"id":228,"age":21,"gender":"F","designation":"student","salary":22003}
 {"id":229,"age":29,"gender":"F","designation":"librarian","salary":22903}
 {"id":230,"age":28,"gender":"F","designation":"student","salary":14476}
